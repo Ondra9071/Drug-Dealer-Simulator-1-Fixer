@@ -18,7 +18,7 @@ If you don't trust this program, you can fix the game manually. To do it, I reco
 But if you know, what you're doing, make this new **System Enviroment Variable**:
 ```
 OPENSSL_ia32cap
-~0x200000200000000
+~0x200000200000000 x
 ```
 # Problems and Bugs
 Here are the problems and bugs that I plan to address in the future. If you fixed them, please do not hesitate to send me a pull request, and I would be very grateful. Please also report problems and bugs in [GitHub Issues](https://github.com/Ondra9071/Drug-Dealer-Simulator-1-Fixer/issues).
