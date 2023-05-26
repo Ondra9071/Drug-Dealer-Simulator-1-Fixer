@@ -3,7 +3,7 @@
 Edits Enviroment variable to fix the game crashing on start. Windows Only.
 
 # How to fix the game
-To fix the game, just download [this .zip file](https://google.com/), open **DDS Fixer.exe**, and you're done. If you get this message, it worked.
+To fix the game, just download [this .zip file](https://github.com/Ondra9071/Drug-Dealer-Simulator-1-Fixer/releases/latest), open **DDS Fixer.exe**, and you're done. If you get this message, it worked.
 ![Success image preview](https://i.imgur.com/hIH88hG.png)
 
 # How it works?
