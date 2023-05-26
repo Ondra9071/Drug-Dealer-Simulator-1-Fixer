@@ -3,7 +3,7 @@
 
 
 // Source code of DDS Fixer
-// Made by Ondrej Pacovsky
+// Made by Ondra907
 // Version 1.0
 // https://github.com/Ondra9071/Drug-Dealer-Simulator-1-Fixer
 
