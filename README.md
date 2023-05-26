@@ -2,7 +2,7 @@
 [![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge)](https://github.com/Ondra9071/Drug-Dealer-Simulator-1-Fixer/releases/download/1.0/DDS.Fixer.zip)
 [![Downloads](https://img.shields.io/github/downloads/Ondra9071/CustomRPC/total?label=Downloads&style=for-the-badge)](https://github.com/Ondra9071/Drug-Dealer-Simulator-1-Fixer/releases/latest)
 [![Stars](https://img.shields.io/github/stars/Ondra9071/CustomRPC?label=Stars&style=for-the-badge)](https://github.com/Ondra9071/Drug-Dealer-Simulator-1-Fixer/stargazers)
-[![Forks](https://img.shields.io/github/forks/Ondra9071/CustomRPC?label=Forks&style=for-the-badge)](https://github.com/extatent/Ondra9071/Drug-Dealer-Simulator-1-Fixer/network/members)
+[![Forks](https://img.shields.io/github/forks/Ondra9071/CustomRPC?label=Forks&style=for-the-badge)](https://github.com/Ondra9071/Drug-Dealer-Simulator-1-Fixer/forks)
 # Drug Dealer-Simulator 1 Fixer
 Edits Enviroment variable to fix the game crashing on start. Windows Only.
 
